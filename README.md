@@ -8,3 +8,5 @@ Here you can find a comparison between machine learning algorithms, regarding pr
 Clinical factors are taken from the medical scientific literature and research on Covid-19 disease.
 
 Dataset here: https://coronavirus.es.gov.br/painel-covid-19-es
+
+The project was carried out during the Data Mining class, in the Master's Degree course in Engineering in Computer Science at "University of Rome - La Sapienza"
